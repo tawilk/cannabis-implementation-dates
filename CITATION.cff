@@ -1,1 +1,6 @@
-Wilk T, Cannabis Retail Access Dates: A Harmonized Dataset for Policy Evaluation.
+cff-version: 1.2.0
+title: US Cannabis Retail Implementation Dates
+authors:
+  - family-names: Wilk
+    given-names: Thomas
+repository-code: https://github.com/tomwilk/cannabis-implementation-dates
