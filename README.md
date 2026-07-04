@@ -7,9 +7,13 @@ The dataset was developed to improve consistency in health policy evaluations by
 
 # Contents
 Harmonized implementation date dataset
+
 Codebook
+
 Source documentation
+
 Supplemental appendix
+
 Figures from the manuscript
 
 # Citation
