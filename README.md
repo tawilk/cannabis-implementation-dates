@@ -1,7 +1,6 @@
-# cannabis-implementation-dates
-Up-to-date list of each US state &amp; DC for cannabis policy implementation and retail access for medical and recreational (adult-use) cannabis (marijuana)
+# US Cannabis Policy & Retail Implementation Dates
 
-US Cannabis Policy & Retail Implementation Dates
+Up-to-date list of each US state &amp; DC for cannabis policy implementation and retail access for medical and recreational (adult-use) cannabis (marijuana)
 
 This repository provides a harmonized dataset of medical and adult-use cannabis policy and retail implementation dates for all 50 U.S. states and the District of Columbia.
 The dataset was developed to improve consistency in health policy evaluations by distinguishing statutory legalization from the date legal retail access first became available.
