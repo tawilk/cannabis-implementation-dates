@@ -18,7 +18,7 @@ Figures from the manuscript
 
 # Citation
 If you use this dataset, please cite:
-Wilk T, Cannabis Retail Access Dates: A Harmonized Dataset for Policy Evaluation.
+Wilk T, Measuring Treatment Exposure in Cannabis Policy Evaluation.
 
 (Journal information will be added after publication.)
 
