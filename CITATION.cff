@@ -1,6 +1,8 @@
 cff-version: 1.2.0
-title: US Cannabis Retail Implementation Dates
+message: "If you use this dataset, please cite it as follows."
+title: "Measuring Treatment Exposure in Cannabis Policy Evaluation"
 authors:
   - family-names: Wilk
     given-names: Thomas
-repository-code: https://github.com/tomwilk/cannabis-implementation-dates
+repository-code: "https://github.com/tawilk/cannabis-implementation-dates"
+license: CC-BY-4.0
